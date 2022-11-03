@@ -1,3 +1,3 @@
-hello world! noel
+Hello, world! noel
 
 good-bye!
